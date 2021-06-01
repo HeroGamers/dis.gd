@@ -1,0 +1,36 @@
+:root {
+    --white: white;
+    --black: black;
+    --background: var(--white);
+    --text: var(--black);
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    color: var(--text);
+    background-color: var(--background);
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* I tried to make it look better on mobile, oh welp */
+.shortLinkRedirect, .shortLinkDescription {
+    /*display: block;*/
+    /*white-space: nowrap;*/
+    /*text-overflow: ellipsis;*/
+    /*overflow: hidden;*/
+    /*max-width: 100%;*/
+
+    /*display:table;*/
+    /*white-space: pre-wrap; !* css-3 *!*/
+    /*white-space: -moz-pre-wrap; !* Mozilla, since 1999 *!*/
+    /*white-space: -pre-wrap; !* Opera 4-6 *!*/
+    /*white-space: -o-pre-wrap; !* Opera 7 *!*/
+    /*word-wrap: break-word; !* Internet Explorer 5.5+ *!*/
+}

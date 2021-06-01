@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Required Metadata -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Other metadata -->
+        <title>Discord Shortened Links</title>
+        <meta property="og:site_name" content="Discord Shortened Links">
+        <meta name="application-name" content="Discord Shortened Links">
+        <meta property="og:title" content="View an interactive list of dis.gd links!">
+        <meta name="description" content="Want to remember those pesky dis.gd links? With this, you'll get the most important ones learnt in no time!">
+        <meta name="og:description" content="Want to remember those pesky dis.gd links? With this, you'll get the most important ones learnt in no time!">
+        <meta name="author" content="HeroGamers#0900">
+        <meta name="theme-color" content="#5865F2">
+        <meta name="msapplication-TileColor" content="#5865F2">
+        <meta property="og:url" content="https://herogamers.dev/dis.gd">
+        <link rel="canonical" href="https://herogamers.dev/dis.gd">
+
+        <!-- Favicons -->
+        <link rel="shortcut icon" href="img/favicon.ico">
+        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="img/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon-precomposed" sizes="60x60" href="img/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="img/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon-precomposed" sizes="76x76" href="img/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="img/apple-touch-icon-152x152.png">
+        <link rel="icon" type="image/png" href="img/favicon-196x196.png" sizes="196x196">
+        <link rel="icon" type="image/png" href="img/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="img/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="img/favicon-128.png" sizes="128x128">
+        <meta name="msapplication-TileImage" content="img/mstile-144x144.png">
+        <meta name="msapplication-square70x70logo" content="img/mstile-70x70.png">
+        <meta name="msapplication-square150x150logo" content="img/mstile-150x150.png">
+        <meta name="msapplication-wide310x150logo" content="img/mstile-310x150.png">
+        <meta name="msapplication-square310x310logo" content="img/mstile-310x310.png">
+
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <!-- Bootstrap Table (for sortable tables) -->
+        <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.css">
+        <!-- Bootstrap Table Resizeable CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/jquery-resizable-columns@0.2.3/dist/jquery.resizableColumns.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="?">Discord Shortened Links</a>
+
+            <div class="collapse navbar-collapse" id="navbarToggler">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="?type=article">Articles</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?type=blogpost">Blogposts</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?type=externalwebsite">External Websites</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?type=form">Forms</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?type=serverinvite">Server Invites</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?type=store">Store Pages</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?type=website">Websites</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- Page Content -->
+        <div class="container">
+            <!-- For the shortlink table -->
+            <div id="shortLinks">
+                <table class="table" id=shortLinkTable data-search="true" data-pagination="true" data-resizable="true"
+                       data-sort-name="usefulness" data-sort-order="asc">
+                    <!-- The headers -->
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col" data-field="link" data-sortable="true">Shortlink</th>
+                            <th scope="col" data-field="type" data-sortable="true">Type</th>
+                            <th scope="col" data-field="description" data-sortable="true">Description</th>
+                            <th scope="col" data-field="redirect">Redirect</th>
+                            <th scope="col" data-field="usefulness" data-sortable="true">Usefulness</th>
+                        </tr>
+                    </thead>
+                    <!-- Body which we use to fill in the data in shortlinks.js -->
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer text-center pt-3">
+            <div class="container">
+                Want to help maintain the list? Check out the <a href="https://github.com/HeroGamers/dis.gd", target="_blank">GitHub</a>!
+                <br/>
+                Copyright &#169; 2021 HeroGamers
+                - <a href="https://raw.githubusercontent.com/HeroGamers/dis.gd/master/LICENSE" target="_blank">Licensed under MIT</a>
+                - This website is not affiliated or endorsed by Discord, Inc.
+            </div>
+        </footer>
+
+        <!-- jQuery -->
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+        <!-- Custom scripts -->
+        <script src="js/shortlinks.js"></script>
+        <!-- Bootstrap Javascript -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <!-- Bootstrap Table JavaScript -->
+        <script src="https://unpkg.com/bootstrap-table@1.18.3/dist/bootstrap-table.min.js"></script>
+        <!-- Bootstrap Table Resizeable -->
+        <script src="https://unpkg.com/jquery-resizable-columns@0.2.3/dist/jquery.resizableColumns.min.js"></script>
+        <script src="https://unpkg.com/bootstrap-table@1.13.1/dist/extensions/resizable/bootstrap-table-resizable.min.js"></script>
+    </body>
+</html>
