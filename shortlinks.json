@@ -1495,10 +1495,10 @@
   },
   {
     "link": "unsupportedbugs",
-    "type": null,
-    "description": null,
-    "redirect": null,
-    "usefulness": null
+    "type": "Article",
+    "description": "Unsupported Bug Reports",
+    "redirect": "https://support.discord.com/hc/articles/1500005933882",
+    "usefulness": 2
   },
   {
     "link": "exam",
