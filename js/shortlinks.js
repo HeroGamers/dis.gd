@@ -10,7 +10,12 @@ $(document).ready(function() {
         // console.log(json)
         $.each(json, function(i) {
             // Skip if it doesn't match criteria in URL parameter
-            if (shortlink_type && json[i].type) {
+            if (shortlink_type) {
+                // Skip the json element if it has no type set
+                if (!json[i].type || json[i].type === null) {
+                    return
+                }
+
                 let type;
                 switch (shortlink_type.toLowerCase()) {
                     case "articles":
