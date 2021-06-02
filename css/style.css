@@ -19,6 +19,10 @@ body {
     justify-content: space-between;
 }
 
+footer.bg-dark {
+    color: var(--white);
+}
+
 /* I tried to make it look better on mobile, oh welp */
 .shortLinkRedirect, .shortLinkDescription {
     /*display: block;*/

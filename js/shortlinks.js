@@ -72,12 +72,12 @@ $(document).ready(function() {
                 "    <th scope='row' class='shortLinkLink'>" +
                 "        <a href='https://dis.gd/"+json[i].link+"' target='_blank'>" + linkText + "</a>" +
                 "    </th>" +
-                "    <td class='shortLinkType'>"+json[i].type+"</td>" +
-                "    <td class='shortLinkDescription'>" + json[i].description + "</td>" +
+                "    <td class='shortLinkType'>" + ((json[i].type !== null) && json[i].type || "Missing Type") + "</td>" +
+                "    <td class='shortLinkDescription'>" + ((json[i].description !== null) && json[i].description || ("No description - help by adding one on <a href='https://github.com/HeroGamers/dis.gd' target='_blank'>GitHub</a>!")) + "</td>" +
                 "    <td class='shortLinkRedirect'>" +
-                "        <a href="+json[i].redirect+" target='_blank'>" + json[i].redirect + "</a>" +
+                "        " + ((json[i].redirect !== null) && ("<a href="+json[i].redirect+" target='_blank'>" + json[i].redirect + "</a>") || ("No redirect - help by adding one on <a href='https://github.com/HeroGamers/dis.gd' target='_blank'>GitHub</a>!")) +
                 "    </td>" +
-                "    <td class='shortLinkUsefulness'>" + json[i].usefulness + "</td>" +
+                "    <td class='shortLinkUsefulness'>" + ((json[i].usefulness !== null) && json[i].usefulness || "Undetermined usefulness") + "</td>" +
                 "</tr>"
             )
         })
