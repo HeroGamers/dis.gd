@@ -15,7 +15,12 @@
   },
   {
     "link": "howtoreport",
-    "links": ["howtoreport", "serverid", "userid", "messageid"],
+    "links": [
+      "howtoreport",
+      "serverid",
+      "userid",
+      "messageid"
+    ],
     "type": "Article",
     "description": "How to Properly Report Issues to Trust & Safety",
     "redirect": "https://support.discordapp.com/hc/articles/360000291932",
@@ -30,18 +35,24 @@
   },
   {
     "link": "contact",
-    "links": ["contact", "support"],
+    "links": [
+      "contact",
+      "support"
+    ],
     "type": "Form",
     "description": "Contact Support - Submit a request",
-    "redirect": "https://support.discordapp.com/hc/requests/new",
+    "redirect": "https://support.discord.com/hc/requests/new",
     "usefulness": 1
   },
   {
     "link": "report",
-    "links": ["request", "report"],
+    "links": [
+      "request",
+      "report"
+    ],
     "type": "Form",
     "description": "Contact Trust & Safety - Submit a request",
-    "redirect": "https://support.discordapp.com/hc/en-us/requests/new?ticket_form_id=360000029731",
+    "redirect": "https://support.discord.com/hc/en-us/requests/new?ticket_form_id=360000029731",
     "usefulness": 1
   },
   {
@@ -60,7 +71,10 @@
   },
   {
     "link": "tos",
-    "links": ["tos", "terms"],
+    "links": [
+      "tos",
+      "terms"
+    ],
     "type": "Website",
     "description": "The Terms of Service",
     "redirect": "https://discordapp.com/terms",
@@ -68,7 +82,10 @@
   },
   {
     "link": "bugs",
-    "links": ["bugs", "bughunting"],
+    "links": [
+      "bugs",
+      "bughunting"
+    ],
     "type": "Article",
     "description": "How to Report Bugs",
     "redirect": "https://support.discord.com/hc/en-us/articles/360046057772",
@@ -92,7 +109,7 @@
     "link": "billing",
     "type": "Form",
     "description": "Contact Support about Billing issues - Submit a request",
-    "redirect": "https://support.discordapp.com/hc/requests/new?ticket_form_id=360000118612",
+    "redirect": "https://support.discord.com/hc/requests/new?ticket_form_id=360000118612",
     "usefulness": 2
   },
   {
@@ -104,7 +121,16 @@
   },
   {
     "link": "moderation",
-    "links": ["moderation", "modacademy", "dma103", "dma104", "dma201", "dma202", "dma203", "(and one for every other article)"],
+    "links": [
+      "moderation",
+      "modacademy",
+      "dma103",
+      "dma104",
+      "dma201",
+      "dma202",
+      "dma203",
+      "(and one for every other article)"
+    ],
     "type": "Website",
     "description": "Discord Moderator Academy (and links to all the resources)",
     "redirect": "https://discord.com/moderation",
@@ -140,7 +166,10 @@
   },
   {
     "link": "vfqual",
-    "links": ["vfqual", "vsreqs"],
+    "links": [
+      "vfqual",
+      "vsreqs"
+    ],
     "type": "Article",
     "description": "Server Verification Qualifications",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360001107231-What-Qualifies-for-Server-Verification-",
@@ -150,7 +179,7 @@
     "link": "partnercoc",
     "type": "Article",
     "description": "The Partnership Code of Conduct",
-    "redirect": "https://support.discordapp.com/hc/articles/360024871991",
+    "redirect": "https://support.discord.com/hc/en-us/articles/360024871991",
     "usefulness": 3
   },
   {
@@ -178,7 +207,7 @@
     "link": "status",
     "type": "Website",
     "description": "Discord Operating Status",
-    "redirect": "https://status.discordapp.com",
+    "redirect": "https://status.discordapp.com/",
     "usefulness": 3
   },
   {
@@ -190,7 +219,10 @@
   },
   {
     "link": "vfs",
-    "links": ["vfs", "verified"],
+    "links": [
+      "vfs",
+      "verified"
+    ],
     "type": "Website",
     "description": "Verification (Verified Servers) - Apply for Verification",
     "redirect": "https://discordapp.com/verification",
@@ -261,7 +293,10 @@
   },
   {
     "link": "boost",
-    "links": ["boost", "serverboosting"],
+    "links": [
+      "boost",
+      "serverboosting"
+    ],
     "type": "Article",
     "description": "Server Boosting",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360028038352-Server-Boosting-",
@@ -304,7 +339,10 @@
   },
   {
     "link": "install",
-    "links": ["install", "installfail"],
+    "links": [
+      "install",
+      "installfail"
+    ],
     "type": "Article",
     "description": "Windows Installer Errors",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/209099387--Windows-Installer-Errors",
@@ -390,7 +428,7 @@
   {
     "link": "instability",
     "type": "Blogpost",
-    "description": "Recent Instability & What’s Next - \"What's with the outages?",
+    "description": "Recent Instability & What\u2019s Next - \"What's with the outages?",
     "redirect": "https://blog.discordapp.com/recent-instability-whats-next-ce7e4a9e3139",
     "usefulness": 5
   },
@@ -741,7 +779,7 @@
     "link": "wumpusfundraiser",
     "type": "External Site",
     "description": "Donation Drive for Covid-19",
-    "redirect": "https://tiltify.com/@discordapp/covid-19-donation-drive-for-direct-relieff",
+    "redirect": "https://tiltify.com/@discordapp/covid-19-donation-drive-for-direct-relief",
     "usefulness": 6
   },
   {
@@ -797,7 +835,7 @@
     "link": "wumpus",
     "type": "External Website",
     "description": "Computer Man (like printer.discord.com)",
-    "redirect": "https://www.youtube.com/watch?v=jeg_TJvkSjg",
+    "redirect": "https://printer.discord.com",
     "usefulness": 7
   },
   {
@@ -846,7 +884,7 @@
     "link": "TidyingUp",
     "type": "Blogpost",
     "description": "Removal of activity tab, library and games launcher",
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/were-constantly-listening-to-your-feedback-and-working-to-improve-how-discord-feels-and-functions-676a5cb3ab63",
     "usefulness": null
   },
   {
@@ -866,7 +904,7 @@
   {
     "link": "test",
     "type": "External Website",
-    "description": "First bitly, then redirect to Steam Store - Rainbow Six® Siege",
+    "description": "First bitly, then redirect to Steam Store - Rainbow Six\u00ae Siege",
     "redirect": "http://bit.ly/2L4MU1m",
     "usefulness": null
   },
@@ -893,7 +931,10 @@
   },
   {
     "link": "verify",
-    "links": ["verify", "verification"],
+    "links": [
+      "verify",
+      "verification"
+    ],
     "type": "Form",
     "description": "[CLOSED FORM] Discord Verification Program Application",
     "redirect": "https://goo.gl/forms/Oxa5IuX5TIKANqRv2",
@@ -1020,23 +1061,45 @@
   },
   {
     "link": "atsundowntw",
-    "links": ["mrfruitatsundown", "jelly-atsundown", "dr_horseyt-atsundown", "atsundowntw"],
+    "links": [
+      "mrfruitatsundown",
+      "jelly-atsundown",
+      "dr_horseyt-atsundown",
+      "atsundowntw"
+    ],
     "type": "Store",
     "description": "AT SUNDOWN (nonaffiliate and affiliate)",
-    "redirect": "https://discordapp.com/store/skus/487031053454802946/at-sundown-shots-in-the-dark",
+    "redirect": "https://discordapp.com/store/skus/487031053454802946/at-sundown-tm?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "badnorthyt",
-    "links": ["badnorthyt", "badnorthtw", "mattshea-badnorth", "oompavillebadnorth", "baronvongamesyt-badnorth", "thinknoodlesbadnorth"],
+    "links": [
+      "badnorthyt",
+      "badnorthtw",
+      "mattshea-badnorth",
+      "oompavillebadnorth",
+      "baronvongamesyt-badnorth",
+      "thinknoodlesbadnorth"
+    ],
     "type": "Store",
     "description": "Bad North (affiliate links and non-affiliate at top)",
-    "redirect": "https://discordapp.com/store/skus/488422292137836574/bad-north",
+    "redirect": "https://discordapp.com/store/skus/488422292137836574/bad-north?utm_source=youtube&utm_medium=social&utm_campaign=2018-11_bad-north&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "koth",
-    "links": ["koth", "kothdevblog", "magikarpusedfly-koth", "alphaking", "alpharad-koth", "daithi-koth", "kingdoom49-yt", "kothype", "kothtw"],
+    "links": [
+      "koth",
+      "kothdevblog",
+      "magikarpusedfly-koth",
+      "alphaking",
+      "alpharad-koth",
+      "daithi-koth",
+      "kingdoom49-yt",
+      "kothype",
+      "kothtw"
+    ],
     "type": "Store",
     "description": "King of the Hat (lots are affiliate links, one at top is closest to non-affiliate)",
     "redirect": "https://discordapp.com/store/skus/486981988109254667/king-of-the-hat",
@@ -1044,10 +1107,17 @@
   },
   {
     "link": "lastyeartw",
-    "links": ["magikarpusedfly-ly", "pipepunkyt-lastyear", "fitz-lastyear", "sp4zieyt-lastyear", "lastyeartw", "swaggersouls-lastyear"],
+    "links": [
+      "magikarpusedfly-ly",
+      "pipepunkyt-lastyear",
+      "fitz-lastyear",
+      "sp4zieyt-lastyear",
+      "lastyeartw",
+      "swaggersouls-lastyear"
+    ],
     "type": "Store",
     "description": "Last Year: The Nightmare (affiliate links)",
-    "redirect": "https://discordapp.com/store/skus/489576163438624769/last-year-the-nightmare",
+    "redirect": "https://discordapp.com/store/skus/489576163438624769/last-year-the-nightmare?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_last-year-launch&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
@@ -1059,7 +1129,10 @@
   },
   {
     "link": "oj-minionmasters",
-    "links": ["oj-minionmasters", "bts-minionmasters"],
+    "links": [
+      "oj-minionmasters",
+      "bts-minionmasters"
+    ],
     "type": "Store",
     "description": "Minion Masters (affiliate links)",
     "redirect": "http://bit.ly/2NKDzf2?utm_source=youtube&utm_medium=store%20promotion&utm_campaign=ojminionmasters",
@@ -1095,332 +1168,336 @@
   },
   {
     "link": "androidboogie",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/how-discord-renders-rich-messages-on-the-android-app-67b0e5d56fbe",
     "usefulness": null
   },
   {
     "link": "apps",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/api/download/mobile",
     "usefulness": null
   },
   {
     "link": "ar12",
-    "type": null,
+    "type": "Server Invite",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discord.gg/AR12?utm_source=twitter&utm_medium=partnerships&utm_campaign=AR12",
     "usefulness": null
   },
   {
     "link": "bitethis",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/invite/bitethis?utm_source=twitter&utm_medium=social&utm_campaign=2019-08_bite-this&utm_content=--t%3Aev",
     "usefulness": null
   },
   {
     "link": "blogcrawl",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/498549800237662212/crawl?utm_source=medium&utm_medium=blog&utm_campaign=2018-10_crawl&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "bugreport",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://support.discord.com/hc/requests/new?ticket_form_id=360006586013",
     "usefulness": null
   },
   {
     "link": "buildyourkingdom",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/empowering-developers-with-community-and-commerce-68d9c0712662",
     "usefulness": null
   },
   {
     "link": "childsplaydiscordhype",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://tiltify.com/@discordapp/discord-hypesquad-childs-play-fundraiser",
     "usefulness": null
   },
   {
     "link": "crazysam-rt",
-    "type": null,
+    "type": "Server Invite",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discord.gg/crazysam?utm_source=twitter&utm_medium=affiliate&utm_campaign=2020-01_growth-japan&utm_content=--t%3App--pp%3Acrazysam",
     "usefulness": null
   },
   {
     "link": "crosscodetw",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/498690780836134912/crosscode?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "darksiderstw",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/471358881348452352/darksiders-iii?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "devnewsletter",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/dev-newsletter",
     "usefulness": null
   },
   {
     "link": "discordswim4",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/11-20-18-discord-nitro-gets-five-adult-swim-games-b242736eccf0",
     "usefulness": null
   },
   {
     "link": "docs",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/developers/docs/intro",
     "usefulness": null
   },
   {
     "link": "donate",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://tiltify.com/@discordapp/snowsgiving-2019-fundraiser",
     "usefulness": null
   },
   {
     "link": "doom49yt-h&gwwii",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/550277544025522176/heroes-generals-wwii?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-05_nitro-heroes-generals-wwii&utm_content=--t%3App--pp%3Adoom49",
     "usefulness": null
   },
   {
     "link": "dreamcommunity",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/how-we-used-discord-to-build-a-dream-community-for-our-game-descenders-ce31635a6e7f",
     "usefulness": null
   },
   {
     "link": "eaislive",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/discord-early-access-games-are-now-live-d43ef70fd7e2",
     "usefulness": null
   },
   {
     "link": "fourvalues",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/the-four-values-of-working-at-discord-90d5b5102cbc",
     "usefulness": null
   },
   {
     "link": "frostfangs-paladins",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/528145079819436043/paladins?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-07_nitro-paladins&utm_content=--t%3App--pp%3Afrostfangs",
     "usefulness": null
   },
   {
     "link": "frostpunk",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/471501184939851806/frostpunk",
     "usefulness": null
   },
   {
     "link": "goldglove-zombsroyale.io",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/519338998791929866/zombsroyale-io?utm_source=twitch&utm_medium=affiliate&utm_campaign=2019-02_nitro-zombsroyale&utm_content=--t%3App--pp%3Agoldglove",
     "usefulness": null
   },
   {
     "link": "hackweekwinners",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/discord-community-hack-week-category-winners-bd0364360f92",
     "usefulness": null
   },
   {
     "link": "imageproxy",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d",
     "usefulness": null
   },
   {
     "link": "keyboardnav",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discord.com/how-discord-implemented-app-wide-keyboard-navigation-abf073fd71de",
     "usefulness": null
   },
   {
     "link": "killerqueenb",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/492373500997402624/killer-queen-black?utm_source=twitter&utm_medium=social&utm_campaign=2019-02_killer-queen&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "login",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/login",
     "usefulness": null
   },
   {
     "link": "makepeoplehappy",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/jobs/4002320002",
     "usefulness": null
   },
   {
     "link": "merch",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://merch.discordapp.com/",
     "usefulness": null
   },
   {
     "link": "mermaid",
-    "type": null,
+    "type": "Server Invite",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discord.gg/mermaid?utm_source=twitter&utm_medium=partnerships&utm_campaign=lenaaxios",
     "usefulness": null
   },
   {
     "link": "mmsnow18",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/minion-masters-snowsgiving-tournament-rules-and-prizing-1549fb640ac4",
     "usefulness": null
   },
   {
     "link": "mod-channel-ss",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://media.discordapp.net/attachments/674362533712363520/676929399345643520/unknown.png",
     "usefulness": null
   },
   {
     "link": "nauticalparty",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://youtu.be/fs6j5ReMsNI",
     "usefulness": null
   },
   {
     "link": "netneutrality",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/why-discord-supports-net-neutrality-8f5e2b8b88f5",
     "usefulness": null
   },
   {
     "link": "niscordditro",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/nitro?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_nitro-gifting&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "nitrochanges",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/whats-coming-for-nitro-a732ddc4b5b1",
     "usefulness": null
   },
   {
     "link": "overlaybb",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://medium.com/@discordnelly/discord-overlay-text-chat-performance-boost-and-notifications-3d29cace1d87",
     "usefulness": null
   },
   {
     "link": "overlayredesign",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/redesigning-the-discord-overlay-cc31c6042d6d",
     "usefulness": null
   },
   {
     "link": "police2tw",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/474762950108905472/this-is-the-police-2?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "reactwoooo",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427",
     "usefulness": null
   },
   {
     "link": "riotarmyos",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "http://bit.ly/2uxQH0g?utm_source=youtube&utm_campaign=riotarmy",
     "usefulness": null
   },
   {
     "link": "sinnertw",
-    "links": ["sinnertw", "sunlightbladesinner", "rtgame-sinneryt"],
-    "type": null,
+    "links": [
+      "sinnertw",
+      "sunlightbladesinner",
+      "rtgame-sinneryt"
+    ],
+    "type": "Store",
     "description": "Game Sinner",
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/489184797936058380/sinner-sacrifice-for-redemption?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "slashcommands",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discord.com/slash-commands-are-here-8db0a385d9e6",
     "usefulness": null
   },
   {
     "link": "sp4zie-warframe",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/494959992483348480/warframe?utm_source=twitch&utm_medium=affiliate&utm_campaign=2019-03_nitro-warframe&utm_content=--t%3App--pp%3Asp4zie",
     "usefulness": null
   },
   {
     "link": "starwarshq-darkforces",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-05_nitro-lucasarts-darkforces&utm_content=--t%3App--pp%3Astarwarshq",
     "usefulness": null
   },
   {
     "link": "starwarshq-jediknight",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-05_nitro-lucasarts-jediknight&utm_content=--t%3App--pp%3Astarwarshq",
     "usefulness": null
   },
   {
     "link": "starwarshq-kotor",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-05_nitro-lucasarts-kotor&utm_content=--t%3App--pp%3Astarwarshq",
     "usefulness": null
   },
   {
@@ -1432,65 +1509,65 @@
   },
   {
     "link": "subnauticatw",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/489926636943441932/subnautica?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "systemtw",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/471028545271889920/system-shock-enhanced-edition?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "templates",
-    "type": null,
+    "type": "Article",
     "description": null,
-    "redirect": null,
+    "redirect": "https://support.discordapp.com/hc/articles/360041033511",
     "usefulness": null
   },
   {
     "link": "tosoct18",
     "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discordapp.com/terms-of-service-feedback-and-changes-c58a530c7693",
     "usefulness": null
   },
   {
     "link": "vdaysale",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/?utm_source=twitter&utm_medium=social&utm_campaign=2019-02_vday-sale&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "visagetw",
-    "type": null,
+    "type": "Store",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/store/skus/508057374875975682/visage?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "viva_h-rt",
-    "type": null,
+    "type": "Server Invite",
     "description": null,
-    "redirect": null,
+    "redirect": "https://discord.gg/vivaaaaaaaaaa?utm_source=twitter&utm_medium=affiliate&utm_campaign=2020-02_growth-japan&utm_content=--t%3App--pp%3Aviva_h",
     "usefulness": null
   },
   {
     "link": "website",
     "type": null,
     "description": null,
-    "redirect": null,
+    "redirect": "https://discordapp.com/?utm_source=twitter&utm_medium=social&utm_campaign=2019-06_discord-twitter&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
     "link": "xboxnitro2020",
     "type": "Article",
     "description": "Get 3 months of Xbox Game Pass for PC with Discord Nitro",
-    "redirect": null,
+    "redirect": "https://support.discord.com/hc/articles/360035344491",
     "usefulness": null
   },
   {
@@ -1504,28 +1581,28 @@
     "link": "exam",
     "type": "External Website",
     "description": null,
-    "redirect": null,
+    "redirect": "https://survey.alchemer.com/s3/6323420/Discord-Moderator-Academy-Exam",
     "usefulness": null
   },
   {
     "link": "ournewlook",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discord.com/fc99ee0a77c0",
     "usefulness": null
   },
   {
     "link": "google",
     "type": "External Website",
-    "description": "redirect Yahoo Search",
+    "description": "Redirects to Yahoo Search",
     "redirect": "https://yahoo.com",
     "usefulness": 7
   },
   {
     "link": "modbadge",
-    "type": null,
+    "type": "Blogpost",
     "description": null,
-    "redirect": null,
+    "redirect": "https://blog.discord.com/announcing-our-latest-profile-badge-the-certified-discord-moderator-908182193af8",
     "usefulness": null
   }
 ]
