@@ -1604,5 +1604,12 @@
     "description": null,
     "redirect": "https://blog.discord.com/announcing-our-latest-profile-badge-the-certified-discord-moderator-908182193af8",
     "usefulness": null
+  },
+  {
+    "link": "studenthubs",
+    "type": "Blogpost",
+    "description": "Discover Your Next Favorite Campus Club in Student Hubs",
+    "redirect": "https://blog.discord.com/discover-your-next-favorite-campus-club-in-student-hubs-3b5d1c65800f",
+    "usefulness": null
   }
 ]
