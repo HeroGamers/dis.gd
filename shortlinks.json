@@ -845,12 +845,12 @@
     "redirect": "https://cdn.discordapp.com/attachments/81384788765712384/175123655439810561/unknown.png",
     "usefulness": 7
   },
-  {
-    "link": "threads",
-    "type": "External Website",
-    "description": "Threads are here! (Rickroll)",
-    "redirect": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "usefulness": 7
+  {	
+    "link": "threads-blog",	
+    "type": "Blogpost",	
+    "description": "Threads are here!",	
+    "redirect": "https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b?utm_source=medium&utm_medium=blog&utm_campaign=2021-07_discord-threads-blog&utm_content=--t%3Acm",	
+    "usefulness": null
   },
   {
     "link": "mobilegifpicker",
@@ -1610,6 +1610,34 @@
     "type": "Blogpost",
     "description": "Discover Your Next Favorite Campus Club in Student Hubs",
     "redirect": "https://blog.discord.com/discover-your-next-favorite-campus-club-in-student-hubs-3b5d1c65800f",
+    "usefulness": null
+  },
+  {
+    "link": "youtube-premium",
+    "type": "Blogpost",
+    "description": null,
+    "redirect": "https://blog.discord.com/nitro-users-now-get-an-enhanced-video-experience-with-three-months-of-youtube-premium-9d86db0a4a7c",
+    "usefulness": null
+  },
+  {
+    "link": "youtube-premium-faq",
+    "type": "Article",
+    "description": null,
+    "redirect": "https://support.discord.com/hc/en-us/articles/4405795261335",
+    "usefulness": null
+  },
+  {
+    "link": "pride2021",
+    "type": "Blogpost",
+    "description": null,
+    "redirect": "https://blog.discord.com/celebrating-pride-month-with-glsen-a2e7695fb1d6",
+    "usefulness": null
+  },
+  {
+    "link": "help",
+    "type": "Website",
+    "description": null,
+    "redirect": "https://support.discord.com/hc/en-us",
     "usefulness": null
   }
 ]
