@@ -207,7 +207,7 @@
     "link": "status",
     "type": "Website",
     "description": "Discord Operating Status",
-    "redirect": "https://status.discordapp.com/",
+    "redirect": "https://discordstatus.com",
     "usefulness": 3
   },
   {
@@ -845,11 +845,11 @@
     "redirect": "https://cdn.discordapp.com/attachments/81384788765712384/175123655439810561/unknown.png",
     "usefulness": 7
   },
-  {	
-    "link": "threads-blog",	
-    "type": "Blogpost",	
-    "description": "Threads are here!",	
-    "redirect": "https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b?utm_source=medium&utm_medium=blog&utm_campaign=2021-07_discord-threads-blog&utm_content=--t%3Acm",	
+  {
+    "link": "threads-blog",
+    "type": "Blogpost",
+    "description": "Threads are here!",
+    "redirect": "https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b?utm_source=medium&utm_medium=blog&utm_campaign=2021-07_discord-threads-blog&utm_content=--t%3Acm",
     "usefulness": null
   },
   {
@@ -1175,8 +1175,8 @@
   },
   {
     "link": "apps",
-    "type": null,
-    "description": null,
+    "type": "Website",
+    "description": "Download Discord on your mobile devices",
     "redirect": "https://discordapp.com/api/download/mobile",
     "usefulness": null
   },
@@ -1189,7 +1189,7 @@
   },
   {
     "link": "bitethis",
-    "type": null,
+    "type": "Server Invite",
     "description": null,
     "redirect": "https://discordapp.com/invite/bitethis?utm_source=twitter&utm_medium=social&utm_campaign=2019-08_bite-this&utm_content=--t%3Aev",
     "usefulness": null
@@ -1203,7 +1203,7 @@
   },
   {
     "link": "bugreport",
-    "type": null,
+    "type": "Form",
     "description": null,
     "redirect": "https://support.discord.com/hc/requests/new?ticket_form_id=360006586013",
     "usefulness": null
@@ -1217,7 +1217,7 @@
   },
   {
     "link": "childsplaydiscordhype",
-    "type": null,
+    "type": "External Website",
     "description": null,
     "redirect": "https://tiltify.com/@discordapp/discord-hypesquad-childs-play-fundraiser",
     "usefulness": null
@@ -1245,8 +1245,8 @@
   },
   {
     "link": "devnewsletter",
-    "type": null,
-    "description": null,
+    "type": "Website",
+    "description": "[Invalid - 404] Sign up for the Developer's Newsletter",
     "redirect": "https://discordapp.com/dev-newsletter",
     "usefulness": null
   },
@@ -1259,14 +1259,14 @@
   },
   {
     "link": "docs",
-    "type": null,
-    "description": null,
+    "type": "Website",
+    "description": "Discord's Developer Documentation",
     "redirect": "https://discordapp.com/developers/docs/intro",
-    "usefulness": null
+    "usefulness": 4
   },
   {
     "link": "donate",
-    "type": null,
+    "type": "External Website",
     "description": null,
     "redirect": "https://tiltify.com/@discordapp/snowsgiving-2019-fundraiser",
     "usefulness": null
@@ -1350,22 +1350,22 @@
   },
   {
     "link": "login",
-    "type": null,
-    "description": null,
+    "type": "Website",
+    "description": "Discord Login page",
     "redirect": "https://discordapp.com/login",
     "usefulness": null
   },
   {
     "link": "makepeoplehappy",
-    "type": null,
-    "description": null,
+    "type": "Website",
+    "description": "[Expired Job Listing] Apply to work at Discord",
     "redirect": "https://discordapp.com/jobs/4002320002",
     "usefulness": null
   },
   {
     "link": "merch",
-    "type": null,
-    "description": null,
+    "type": "External Website",
+    "description": "Discord's Merch Store",
     "redirect": "https://merch.discordapp.com/",
     "usefulness": null
   },
@@ -1385,15 +1385,15 @@
   },
   {
     "link": "mod-channel-ss",
-    "type": null,
-    "description": null,
+    "type": "External Website",
+    "description": "A screenshot of the moderator channel toggle in the server settings",
     "redirect": "https://media.discordapp.net/attachments/674362533712363520/676929399345643520/unknown.png",
     "usefulness": null
   },
   {
     "link": "nauticalparty",
-    "type": null,
-    "description": null,
+    "type": "External Website",
+    "description": "Discord Vlog - Discord Nautical Party",
     "redirect": "https://youtu.be/fs6j5ReMsNI",
     "usefulness": null
   },
@@ -1406,8 +1406,8 @@
   },
   {
     "link": "niscordditro",
-    "type": null,
-    "description": null,
+    "type": "Website",
+    "description": "Get Discord Nitro",
     "redirect": "https://discordapp.com/nitro?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_nitro-gifting&utm_content=--t%3Acm",
     "usefulness": null
   },
@@ -1448,8 +1448,8 @@
   },
   {
     "link": "riotarmyos",
-    "type": null,
-    "description": null,
+    "type": "External Website",
+    "description": "First bitly, then redirect to Steam Store - Omensight: Definitive Edition",
     "redirect": "http://bit.ly/2uxQH0g?utm_source=youtube&utm_campaign=riotarmy",
     "usefulness": null
   },
@@ -1558,8 +1558,8 @@
   },
   {
     "link": "website",
-    "type": null,
-    "description": null,
+    "type": "Website",
+    "description": "Discord's website",
     "redirect": "https://discordapp.com/?utm_source=twitter&utm_medium=social&utm_campaign=2019-06_discord-twitter&utm_content=--t%3Acm",
     "usefulness": null
   },
