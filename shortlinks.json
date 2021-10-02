@@ -363,13 +363,6 @@
     "usefulness": 3
   },
   {
-    "link": "bug_tool",
-    "type": "External Website",
-    "description": "Tool for generating text for Discord Testers' Bug-Bot",
-    "redirect": "https://dabbit.typeform.com/to/mnlaDU",
-    "usefulness": 4
-  },
-  {
     "link": "early_access",
     "type": "Form",
     "description": "Discord Android Alpha Form",
@@ -461,13 +454,6 @@
     "usefulness": 5
   },
   {
-    "link": "events",
-    "type": "Server Invite",
-    "description": "Invite to Discord Events",
-    "redirect": "https://discord.gg/0wcFHXbzc1lOm0em",
-    "usefulness": 4
-  },
-  {
     "link": "marketingjobs",
     "type": "Website",
     "description": "Discord marketing jobs",
@@ -484,8 +470,8 @@
   {
     "link": "dev-newsletter",
     "links": [
-        "devnewsletter",
-        "dev-newsletter"
+      "devnewsletter",
+      "dev-newsletter"
     ],
     "type": "Website",
     "description": "[Invalid - 404] Subscribe to the Discord Developer Newsletter",
@@ -843,13 +829,6 @@
     "usefulness": 4
   },
   {
-    "link": "jake",
-    "type": "External Website",
-    "description": "Discord CDN - .png screenshot of Jake typing out a parody of m.A.A.d city modified to be about Discord bots, with b1nzy dying inside to the cringe that is going on before his eyes",
-    "redirect": "https://cdn.discordapp.com/attachments/81384788765712384/175123655439810561/unknown.png",
-    "usefulness": 4
-  },
-  {
     "link": "threads-blog",
     "type": "Blogpost",
     "description": "Threads are here!",
@@ -906,31 +885,10 @@
     "usefulness": 5
   },
   {
-    "link": "test",
-    "type": "External Website",
-    "description": "First bitly, then redirect to Steam Store - Rainbow Six\u00ae Siege",
-    "redirect": "http://bit.ly/2L4MU1m",
-    "usefulness": 5
-  },
-  {
     "link": "ThinkNoodlesFK",
     "type": "External Website",
     "description": "Floor Kids (affiliate link)",
     "redirect": "http://bit.ly/2JEw2Bq?utm_source=youtube&utm_campaign=ThinkNoodles",
-    "usefulness": 5
-  },
-  {
-    "link": "swag",
-    "type": "External Website",
-    "description": "Link to Printfection's Client Portal for Discord's 'Store'",
-    "redirect": "https://www.printfection.com/account/campaign/overview.php?storeid=282500",
-    "usefulness": 5
-  },
-  {
-    "link": "disdevstoreform",
-    "type": "Form",
-    "description": "[CLOSED FORM] Developer Inquiry about the Discord Store",
-    "redirect": "https://goo.gl/forms/yqA1JZPwTlZoXYND2",
     "usefulness": 5
   },
   {
@@ -1587,13 +1545,6 @@
     "description": null,
     "redirect": "https://blog.discord.com/fc99ee0a77c0",
     "usefulness": 5
-  },
-  {
-    "link": "google",
-    "type": "External Website",
-    "description": "Redirects to Yahoo Search",
-    "redirect": "https://yahoo.com",
-    "usefulness": 4
   },
   {
     "link": "modbadge",
