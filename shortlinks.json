@@ -1653,7 +1653,7 @@
   },
   {
     "link": "customroleiconsFAQ",
-    "type": "SupportThing",
+    "type": "Article",
     "description": "Custom Role Icons FAQ",
     "redirect": "https://support.discord.com/hc/articles/4409571023639?utm_source=social-media&utm_medium=social&utm_campaign=2021-09_roleiconsFAQ&utm_content=--t%3Acm",
     "usefulness": 3
