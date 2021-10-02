@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json-schema.org/draft/2019-09/schema",
   "$id": "https://raw.githubusercontent.com/HeroGamers/dis.gd/master/shortlinks.schema.json",
   "title": "Shortlinks",
   "description": "An array of dis.gd shortlinks",
