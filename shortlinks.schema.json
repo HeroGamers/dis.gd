@@ -6,6 +6,6 @@
   "type": "array",
   "items": {
     "description": "A dis.gd shortlink",
-    "$ref": "https://raw.githubusercontent.com/HeroGamers/dis.gd/master/shortlink.schema.json"
+    "$ref": "https://raw.githubusercontent.com/HeroGamers/dis.gd/json-validation/shortlink.schema.json"
   }
 }
