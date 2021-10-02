@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/HeroGamers/dis.gd/master/shortlinks.schema.json",
+  "title": "Shortlinks",
+  "description": "An array of dis.gd shortlinks",
+  "type": "array",
+  "items": {
+    "description": "A dis.gd shortlink",
+    "$ref": "https://raw.githubusercontent.com/HeroGamers/dis.gd/master/shortlink.schema.json"
+  }
+}

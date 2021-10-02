@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/HeroGamers/dis.gd/master/shortlink.schema.json",
+  "title": "Shortlink",
+  "description": "A dis.gd shortlink",
+  "type": "object",
+  "properties": {
+    "link": {
+      "description": "The main shortlink, without the 'dis.gd/' part",
+      "type": "string"
+    },
+    "links": {
+      "description": "Multiple other shortlinks that are linking to the same redirect",
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "type": {
+      "description": "The type of the shortlink",
+      "type": "string",
+      "pattern": "^Article|External Website|Website|Blogpost|Form|Server Invite|Store$"
+    },
+    "description": {
+      "description": "The description of the shortlink",
+      "type": [ "null", "string" ]
+    },
+    "redirect": {
+      "description": "The true redirect of the shortlink",
+      "type": "string"
+    },
+    "usefulness": {
+      "description": "The usefulness for a given shortlink, rated between 1-5",
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    }
+  },
+  "required": [ "link", "type", "description", "redirect" ,"usefulness" ]
+}
