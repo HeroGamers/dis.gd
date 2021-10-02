@@ -3,6 +3,7 @@ import asyncio
 import aiohttp
 
 shortlinks = []
+to_remove = []
 
 # Load shortlinks from the JSON file
 with open("shortlinks.json", "r", encoding="utf8") as shortlink_json:
@@ -17,6 +18,10 @@ async def checkShortlink(i, session):
     async with session.head("https://dis.gd/" + shortlink["link"], allow_redirects=False) as r:
         # If there is a redirect, get the redirect URL (first redirect)
         if not "location" in r.headers:
+            # If it's 404
+            if r.status == 404:
+                print(shortlink["link"] + " is a 404, removing from list")
+                to_remove.append(shortlink)
             return
         redirect_url = r.headers["location"]
 
@@ -52,6 +57,9 @@ async def main():
         await asyncio.gather(*[checkShortlink(shortlink, session) for shortlink in range(len(shortlinks))], return_exceptions=True)
 
     print("done checking")
+
+    for removeElem in to_remove:
+        shortlinks.remove(removeElem)
 
     # Write updated stuff to new file
     with open("shortlinkChecker_shortlinks.json", "w", encoding="utf8") as new_shortlink_file:
