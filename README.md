@@ -1,4 +1,4 @@
-# Dis.gd - The Discord Shortened Link Cheatsheet
+# dis.gd - The Discord Shortened Link Cheatsheet
 
 ---
 
