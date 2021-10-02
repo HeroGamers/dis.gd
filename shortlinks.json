@@ -4,14 +4,14 @@
     "type": "Article",
     "description": "The Community Server Guidelines",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360035969312",
-    "usefulness": 1
+    "usefulness": 2
   },
   {
     "link": "gettingstartedonmobile",
     "type": "Article",
     "description": "How to get started with Discord - On mobile for beginners",
     "redirect": "https://support.discord.com/hc/articles/360046618751",
-    "usefulness": 1
+    "usefulness": 3
   },
   {
     "link": "howtoreport",
@@ -31,7 +31,7 @@
     "type": "Article",
     "description": "How to use Discord - For beginners",
     "redirect": "https://support.discord.com/hc/articles/360045138571",
-    "usefulness": 1
+    "usefulness": 2
   },
   {
     "link": "contact",
@@ -60,7 +60,7 @@
     "type": "Website",
     "description": "Discord Safety Center",
     "redirect": "https://discord.com/safety",
-    "usefulness": 1
+    "usefulness": 2
   },
   {
     "link": "guidelines",
@@ -103,7 +103,7 @@
     "type": "Blogpost",
     "description": "How to use Discord for your classroom",
     "redirect": "https://medium.com/@discordnelly/how-to-use-discord-for-your-classroom-8587bf78e6c4",
-    "usefulness": 2
+    "usefulness": 3
   },
   {
     "link": "billing",
@@ -134,14 +134,14 @@
     "type": "Website",
     "description": "Discord Moderator Academy (and links to all the resources)",
     "redirect": "https://discord.com/moderation",
-    "usefulness": 2
+    "usefulness": 3
   },
   {
     "link": "partners",
     "type": "Website",
     "description": "The Discord Partners page - Apply for Partner",
     "redirect": "https://discordapp.com/partners",
-    "usefulness": 2
+    "usefulness": 3
   },
   {
     "link": "feedback",
@@ -208,14 +208,14 @@
     "type": "Website",
     "description": "Discord Operating Status",
     "redirect": "https://discordstatus.com",
-    "usefulness": 3
+    "usefulness": 2
   },
   {
     "link": "nitro",
     "type": "Website",
     "description": "Showcase of Nitro benefits as well as buying Nitro",
     "redirect": "https://discordapp.com/nitro",
-    "usefulness": 3
+    "usefulness": 4
   },
   {
     "link": "vfs",
@@ -240,28 +240,28 @@
     "type": "Article",
     "description": "Discord's Refund Policy",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360012668071-Refund-Policy",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "googleplaystoreintegration",
     "type": "Article",
     "description": "How to buy Nitro on the Play Store",
     "redirect": "https://support.discord.com/hc/articles/360055386693",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "regionswap",
     "type": "Article",
-    "description": "How to change the Voice Server Region",
+    "description": "[Invalid] How to change the Voice Server Region",
     "redirect": "https://support.discord.com/hc/en-us/articles/216661717-How-do-I-change-my-Voice-Server-Region-",
-    "usefulness": 4
+    "usefulness": 5
   },
   {
     "link": "password",
     "type": "Article",
     "description": "How to Reset your Password",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/218410947-I-forgot-my-Password-Where-can-I-set-a-new-one-",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "inbox",
@@ -275,7 +275,7 @@
     "type": "Article",
     "description": "macOS Installer Errors",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360022082931",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "mobilescreenshare",
@@ -289,7 +289,7 @@
     "type": "Article",
     "description": "Nitro Gifting - Account/Nitro Credit",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360030782312-Updates-to-Nitro-Gifting-Account-Credit-",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "boost",
@@ -300,14 +300,14 @@
     "type": "Article",
     "description": "Server Boosting",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360028038352-Server-Boosting-",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "servervideo",
     "type": "Article",
     "description": "Server Video Help Article",
     "redirect": "https://support.discordapp.com/hc/articles/360041721052",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "golivescreenshare",
@@ -335,7 +335,7 @@
     "type": "Article",
     "description": "Troubleshooting: Voice connection errors",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/115001310031-Voice-Connection-Errors",
-    "usefulness": 4
+    "usefulness": 2
   },
   {
     "link": "install",
@@ -346,7 +346,7 @@
     "type": "Article",
     "description": "Windows Installer Errors",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/209099387--Windows-Installer-Errors",
-    "usefulness": 4
+    "usefulness": 2
   },
   {
     "link": "gamepass",
@@ -360,7 +360,7 @@
     "type": "External Website",
     "description": "Join the Discord iOS TestFlight Release",
     "redirect": "https://testflight.apple.com/join/gdE4pRzI",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "bug_tool",
@@ -374,14 +374,14 @@
     "type": "Form",
     "description": "Discord Android Alpha Form",
     "redirect": "https://docs.google.com/forms/d/e/1FAIpQLSc0h1dqDjEW14LcoyH9ie_uOLfIuf-tgMiRbzJ2yJmv93B3nA/viewform?usp=sf_link",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "mytickets",
     "type": "Website",
     "description": "A link to view your current Support Tickets",
     "redirect": "https://support.discordapp.com/hc/en-us/requests",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "gwupdate",
@@ -395,35 +395,35 @@
     "type": "Article",
     "description": "How to use Discord for your classroom (not the blogpost)",
     "redirect": "https://support.discordapp.com/hc/articles/360040613072",
-    "usefulness": 5
+    "usefulness": 4
   },
   {
     "link": "protectdata",
     "type": "Article",
     "description": "Protecting Your Data - Selfbots and how Discord limits info available",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360039598252",
-    "usefulness": 5
+    "usefulness": 4
   },
   {
     "link": "folders",
     "type": "Article",
     "description": "Server Folders 101",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360030853132-Server-Folders-101",
-    "usefulness": 5
+    "usefulness": 4
   },
   {
     "link": "golive",
     "type": "Article",
     "description": "Stream your game with Go Live",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360030714312",
-    "usefulness": 5
+    "usefulness": 4
   },
   {
     "link": "multistream",
     "type": "Article",
     "description": "Video & Screenshare Updates - Multistream and More",
     "redirect": "https://support.discord.com/hc/articles/360045784891",
-    "usefulness": 5
+    "usefulness": 4
   },
   {
     "link": "instability",
@@ -444,14 +444,14 @@
     "type": "External Website",
     "description": "Link to Discord's Stream on Twitch",
     "redirect": "https://www.twitch.tv/discordapp",
-    "usefulness": 5
+    "usefulness": 4
   },
   {
     "link": "a11y",
     "type": "Form",
     "description": "Feedback on Accessibility",
     "redirect": "https://forms.gle/jjpshi7n4ahenZod6",
-    "usefulness": 5
+    "usefulness": 3
   },
   {
     "link": "devsupport",
@@ -465,7 +465,7 @@
     "type": "Server Invite",
     "description": "Invite to Discord Events",
     "redirect": "https://discord.gg/0wcFHXbzc1lOm0em",
-    "usefulness": 5
+    "usefulness": 4
   },
   {
     "link": "marketingjobs",
@@ -483,8 +483,12 @@
   },
   {
     "link": "dev-newsletter",
+    "links": [
+        "devnewsletter",
+        "dev-newsletter"
+    ],
     "type": "Website",
-    "description": "Subscribe to the Discord Developer Newsletter",
+    "description": "[Invalid - 404] Subscribe to the Discord Developer Newsletter",
     "redirect": "https://discordapp.com/newsletter",
     "usefulness": 5
   },
@@ -493,441 +497,441 @@
     "type": "Website",
     "description": "The Bug Bounty Program",
     "redirect": "https://discordapp.com/security",
-    "usefulness": 5
+    "usefulness": 3
   },
   {
     "link": "nitrotab",
     "type": "Article",
     "description": "[Currently Sorta Broken] Nitro Tab Clarification Support Article",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360017693772#nitrotab",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "soundpackfaq",
     "type": "Article",
     "description": "April Fools 2021: Sound Packs FAQ",
     "redirect": "https://support.discord.com/hc/articles/1500005617781",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "dispatch-error",
     "type": "Article",
     "description": "Game Dispatch Errors Support Article",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360018124352-Game-Dispatch-Errors",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "halloweenbot2020",
     "type": "Article",
     "description": "How to use the 2020 Halloween Bot",
     "redirect": "https://support.discord.com/hc/articles/360057167253",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "krispmobilejp",
     "type": "Article",
     "description": "Krisp on Mobile FAQ (Japanese)",
     "redirect": "https://support.discord.com/hc/ja/articles/360040843952",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "JP-servervideo",
     "type": "Article",
     "description": "Server video FAQ (Japanese)",
     "redirect": "https://support.discord.com/hc/ja/articles/360041721052",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "jauz",
     "type": "Blogpost",
     "description": "2019 Discord Partner Party",
     "redirect": "https://blog.discordapp.com/setting-sail-with-jauz-96a2875c8e55?utm_source=medium&utm_medium=blog&utm_campaign=2019-08_bite-this&utm_content=--t%3Acm",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "ypttartists",
     "type": "Blogpost",
     "description": "Artists and what Discord means to them",
     "redirect": "https://blog.discord.com/discord-is-where-creativity-shines-f64a659aa5b6",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "bhmcommunities",
     "type": "Blogpost",
     "description": "Community Spotlight: Black Community Leaders",
     "redirect": "https://blog.discord.com/celebrating-black-community-leaders-on-discord-75d23ea60fea",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "berkeleyblog",
     "type": "Blogpost",
     "description": "Community Spotlight: UC Berkeley",
     "redirect": "https://blog.discord.com/how-a-uc-berkeley-student-helps-recreate-a-campus-experience-through-discord-97dee43d81bb",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "utdallas-blog",
     "type": "Blogpost",
     "description": "Community Spotlight: UT Dallas Discord",
     "redirect": "https://blog.discord.com/b8934b19a886",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "hackweek",
     "type": "Blogpost",
     "description": "Discord Community Hack Week",
     "redirect": "https://blog.discordapp.com/discord-community-hack-week-build-and-create-alongside-us-6b2a7b7bba33",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "holycrap",
     "type": "Blogpost",
     "description": "Discord Did Things in 2017",
     "redirect": "https://blog.discordapp.com/discord-did-things-in-2017-5eb2087da4f2",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "communityservers",
     "type": "Blogpost",
     "description": "Discord is for Your Communities - Community Features for everyone",
     "redirect": "https://blog.discord.com/discord-is-for-your-communities-3d14464d4c7b",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "trickcordtreat",
     "type": "Blogpost",
     "description": "Discord Saves Halloween (Discord's 2020 Halloween Bot)",
     "redirect": "https://blog.discord.com/discord-saves-halloween-7816b934c0b1",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "snowblog18",
     "type": "Blogpost",
     "description": "Discord Snowsgiving 2018",
     "redirect": "https://blog.discordapp.com/discord-snowsgiving-2018-3f0d09d483c",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "2020-in-review",
     "type": "Blogpost",
     "description": "Discord's 2020 and how it went, how things are now",
     "redirect": "https://blog.discord.com/building-on-our-momentum-bb51874c71e",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "fancyfancyandroidthings",
     "type": "Blogpost",
     "description": "Easier In-App Navigation on Android",
     "redirect": "https://blog.discord.com/how-discord-made-android-in-app-navigation-easier-fbd904d12521",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "modappreciation",
     "type": "Blogpost",
     "description": "Hear it from the Mods: The life of moderators",
     "redirect": "https://blog.discord.com/lets-hear-it-for-the-mods-3aaa2426254b",
-    "usefulness": 6
+    "usefulness": 4
   },
   {
     "link": "iOSgofast",
     "type": "Blogpost",
     "description": "How Discord achieves native iOS performance with React Native",
     "redirect": "https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "prideshowcase",
     "type": "Blogpost",
     "description": "How Discord Communities Celebrate Pride",
     "redirect": "https://blog.discord.com/how-discord-communities-celebrate-pride-9255cf3fb761",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "communitystories",
     "type": "Blogpost",
     "description": "How Discord is Bringing People Together",
     "redirect": "https://blog.discordapp.com/how-discord-is-bringing-people-together-e215bbd41ad9",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "fodblog",
     "type": "Blogpost",
     "description": "Introducing First on Discord games [Old]",
     "redirect": "https://medium.com/@discordnelly/the-first-first-on-discord-games-73525dab4fd5",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "stickerswhen",
     "type": "Blogpost",
     "description": "Introducing Stickers and when they will come",
     "redirect": "https://blog.discord.com/peeling-back-the-wrapping-on-stickers-4b37a1d1d17",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "noisecancellation",
     "type": "Blogpost",
     "description": "Introduction of noise cancellation as well as Covid-19 voice stats",
     "redirect": "https://blog.discord.com/talking-to-each-other-during-covid-19-6ca471fbe5ac",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "tns2019",
     "type": "Blogpost",
     "description": "Maintaining Trust and Safety at Discord With Over 200 Million People",
     "redirect": "https://blog.discordapp.com/maintaining-trust-and-safety-at-discord-with-over-200-million-people-f0b39adfc00c",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "krispmobile",
     "type": "Blogpost",
     "description": "Noise suppression is now available on iOS and Android",
     "redirect": "https://blog.discord.com/tune-into-discord-with-krisp-noise-suppression-on-ios-and-android-fcf5806967a0",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "juneteenth",
     "type": "Blogpost",
     "description": "Our stand on racial equality",
     "redirect": "https://blog.discord.com/our-stand-on-racial-equality-320088e83a22",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "iwd-events",
     "type": "Blogpost",
     "description": "Raising Funds for the Breast Cancer Research Foundation",
     "redirect": "https://blog.discord.com/raising-funds-for-the-breast-cancer-research-foundation-8729f4145df4",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "stopasianhate",
     "type": "Blogpost",
     "description": "Resources Against Hate and Discrimination Towards the AAPI Community",
     "redirect": "https://blog.discord.com/resources-against-hate-and-discrimination-towards-the-aapi-community-5c4e385a6e6",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "vote2020",
     "type": "Blogpost",
     "description": "Resources for Exercising Your Right to Vote",
     "redirect": "https://blog.discord.com/resources-for-exercising-your-right-to-vote-c53cfc23c56f",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "sayhi2servideo",
     "type": "Blogpost",
     "description": "Server Video is now added",
     "redirect": "https://blog.discord.com/wave-hello-to-server-video-85dcef1128f0",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "videotime",
     "type": "Blogpost",
     "description": "Testing Video Chat and Screen Share",
     "redirect": "https://blog.discordapp.com/were-testing-video-chat-and-screen-share-with-5-of-players-today-c8ddb108ca31",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "store",
     "type": "Blogpost",
     "description": "The Discord Store Beta",
     "redirect": "https://blog.discordapp.com/the-discord-store-beta-9a35596fdd4",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "fodblog",
     "type": "Blogpost",
     "description": "The First \"First On Discord\" Games",
     "redirect": "https://medium.com/@discordnelly/the-first-first-on-discord-games-73525dab4fd5",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "communityprograms",
     "type": "Blogpost",
     "description": "The Partner & Verified Server Programs are back",
     "redirect": "https://blog.discord.com/get-hyped-the-partner-verified-server-programs-are-back-1da44953672a",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "scalingwithrust",
     "type": "Blogpost",
     "description": "Using Rust to Scale Elixir for 11 Million Concurrent Users",
     "redirect": "https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "wumpus4pride",
     "type": "Blogpost",
     "description": "What Pride Means at Discord",
     "redirect": "https://blog.discord.com/what-pride-means-at-discord-b30dcb18224f",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "whynot9010",
     "type": "Blogpost",
     "description": "Why not 90/10?",
     "redirect": "https://blog.discordapp.com/why-not-90-10-3761ebef4eab",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "talk",
     "type": "Blogpost",
     "description": "Your Place to Talk - A blogpost about Discord",
     "redirect": "https://blog.discord.com/your-place-to-talk-a7ffa19b901b",
-    "usefulness": 6
+    "usefulness": 4
   },
   {
     "link": "wumpusfundraiser",
     "type": "External Site",
     "description": "Donation Drive for Covid-19",
     "redirect": "https://tiltify.com/@discordapp/covid-19-donation-drive-for-direct-relief",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "coolplaylist",
     "type": "External Website",
     "description": "A playlist consisting of jams made by people using Discord",
     "redirect": "https://soundcloud.com/discord-official/sets/very-cool-community-playlist",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "donate-snowsgiving",
     "type": "External Website",
     "description": "Donate for Snowsgiving and get Snowsgiving swag",
     "redirect": "https://tiltify.com/@discord/snowsgiving",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "iwd",
     "type": "External Website",
     "description": "International Woman's Day fundraiser",
     "redirect": "https://tiltify.com/+discord-x-bcrf/bcrf",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "add-trickcordtreat",
     "type": "External Website",
     "description": "Link to invite the 2020 Halloween Bot",
     "redirect": "https://discord.com/api/oauth2/authorize?client_id=755580145078632508&permissions=268561472&scope=bot",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "bday3",
     "type": "External Website",
     "description": "YouTube - Discord Vlog: Third Birthday",
     "redirect": "https://youtu.be/VJyaHP-dl48",
-    "usefulness": 6
+    "usefulness": 5
   },
   {
     "link": "streamkit",
     "type": "Website",
     "description": "Discord's StreamKit",
     "redirect": "https://discordapp.com/streamkit",
-    "usefulness": 6
+    "usefulness": 4
   },
   {
     "link": "blackfriday2020",
     "type": "Article",
     "description": "Black Friday 2020 FAQ",
     "redirect": "https://support.discord.com/hc/en-us/articles/360057438734",
-    "usefulness": 7
+    "usefulness": 5
   },
   {
     "link": "wumpus",
     "type": "External Website",
     "description": "Computer Man (like printer.discord.com)",
     "redirect": "https://printer.discord.com",
-    "usefulness": 7
+    "usefulness": 4
   },
   {
     "link": "jake",
     "type": "External Website",
     "description": "Discord CDN - .png screenshot of Jake typing out a parody of m.A.A.d city modified to be about Discord bots, with b1nzy dying inside to the cringe that is going on before his eyes",
     "redirect": "https://cdn.discordapp.com/attachments/81384788765712384/175123655439810561/unknown.png",
-    "usefulness": 7
+    "usefulness": 4
   },
   {
     "link": "threads-blog",
     "type": "Blogpost",
     "description": "Threads are here!",
     "redirect": "https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b?utm_source=medium&utm_medium=blog&utm_campaign=2021-07_discord-threads-blog&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 4
   },
   {
     "link": "mobilegifpicker",
     "type": "Article",
     "description": "[Removed] Mobile Gif Picker",
     "redirect": "https://support.discord.com/hc/articles/360021235192",
-    "usefulness": 8
+    "usefulness": 5
   },
   {
     "link": "funimation",
     "type": "Article",
     "description": "Funimation Partnership [old]",
     "redirect": "https://support.discordapp.com/hc/en-us/articles/360036587771",
-    "usefulness": 8
+    "usefulness": 5
   },
   {
     "link": "blurpletesla-ig",
     "type": "Website",
     "description": "Terms for the Snowsgiving 2020 Blurple Tesla giveaway on Instagram",
     "redirect": "https://discord.com/terms/snowsgiving-2020/instagram",
-    "usefulness": 8
+    "usefulness": 5
   },
   {
     "link": "blurpletesla",
     "type": "Website",
     "description": "Terms for the Snowsgiving 2020 Blurple Tesla giveaway on Twitter",
     "redirect": "https://discord.com/terms/snowsgiving-2020/twitter",
-    "usefulness": 8
+    "usefulness": 5
   },
   {
     "link": "TidyingUp",
     "type": "Blogpost",
     "description": "Removal of activity tab, library and games launcher",
     "redirect": "https://blog.discordapp.com/were-constantly-listening-to-your-feedback-and-working-to-improve-how-discord-feels-and-functions-676a5cb3ab63",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "wumpusfundraiser",
     "type": "External Website",
     "description": "COVID-19 Donation Drive for Direct Relief",
     "redirect": "https://tiltify.com/@discordapp/covid-19-donation-drive-for-direct-relief",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "FightingCowboyOS",
     "type": "External Website",
     "description": "First bitly, then redirect to Steam Store - Omensight: Definitive Edition",
     "redirect": "http://bit.ly/2uxQH0g?utm_source=youtube&utm_campaign=FightinCowboy",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "test",
     "type": "External Website",
     "description": "First bitly, then redirect to Steam Store - Rainbow Six\u00ae Siege",
     "redirect": "http://bit.ly/2L4MU1m",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "ThinkNoodlesFK",
     "type": "External Website",
     "description": "Floor Kids (affiliate link)",
     "redirect": "http://bit.ly/2JEw2Bq?utm_source=youtube&utm_campaign=ThinkNoodles",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "swag",
     "type": "External Website",
     "description": "Link to Printfection's Client Portal for Discord's 'Store'",
     "redirect": "https://www.printfection.com/account/campaign/overview.php?storeid=282500",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "disdevstoreform",
     "type": "Form",
     "description": "[CLOSED FORM] Developer Inquiry about the Discord Store",
     "redirect": "https://goo.gl/forms/yqA1JZPwTlZoXYND2",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "verify",
@@ -938,126 +942,126 @@
     "type": "Form",
     "description": "[CLOSED FORM] Discord Verification Program Application",
     "redirect": "https://goo.gl/forms/Oxa5IuX5TIKANqRv2",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "jhzer",
     "type": "Server Invite",
     "description": "[INVALID] Invite to JZ(E)R's Server",
     "redirect": "https://discord.gg/jhzer?utm_source=twitter&utm_medium=partnerships&utm_campaign=jhzer",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "nexxuzworld",
     "type": "Server Invite",
     "description": "[INVALID] Invite to Nexxuz World",
     "redirect": "https://discord.gg/nexxuzworld?utm_source=twitter&utm_medium=partnerships&utm_campaign=nexxuz",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "sarinha3",
     "type": "Server Invite",
     "description": "Invite to Chanchinhos (Sarinha's Server)",
     "redirect": "https://discord.gg/sarinha3?utm_source=twitter&utm_medium=partnerships&utm_campaign=sarinha",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "devovo",
     "type": "Server Invite",
     "description": "Invite to Denovo",
     "redirect": "https://discord.gg/devovo?utm_source=twitter&utm_medium=partnerships&utm_campaign=devovo",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "dgtvcommunity",
     "type": "Server Invite",
     "description": "Invite to DGTV Community Server",
     "redirect": "https://discord.gg/dgtvcommunity?utm_source=twitter&utm_medium=partnerships&utm_campaign=dennisgamingtv",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "doom49yt",
     "type": "Server Invite",
     "description": "Invite to DooM49ers",
     "redirect": "https://discord.gg/doom49?utm_source=youtube&utm_medium=partnerships&utm_campaign=doom49",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "fruitnation",
     "type": "Server Invite",
     "description": "Invite to Fruit Nation",
     "redirect": "https://discord.gg/fruitnation?utm_source=twitter&utm_medium=premium%20partner&utm_campaign=fruitnation",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "magikarpusedfly",
     "type": "Server Invite",
     "description": "Invite to Karp Crew (magikarpusedfly's server)",
     "redirect": "http://discord.gg/magikarpusedfly?utm_source=twitter&utm_campaign=magikarpusedfly",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "pixelatedapollo",
     "type": "Server Invite",
     "description": "Invite to Kings of Apollo (Pixelated Apollo's Server)",
     "redirect": "http://discord.gg/pixelatedapollo?utm_source=twitter&utm_medium=Premium%20Partner&utm_campaign=pixelatedapollo",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "mumbojumbo",
     "type": "Server Invite",
     "description": "Invite to Mumbo Jumbo's Server",
     "redirect": "https://discord.gg/mumbojumbo?utm_source=twitter&utm_medium=partnerships&utm_campaign=mumbojumbo",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "natsukisel",
     "type": "Server Invite",
     "description": "Invite to NatsukiSel",
     "redirect": "https://discord.gg/natsukisel?utm_source=twitter&utm_medium=partnerships&utm_campaign=natsukisel",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "siphano",
     "type": "Server Invite",
     "description": "Invite to Siphano's Server",
     "redirect": "https://discord.gg/siphano?utm_source=Twitter&utm_medium=Premium%20Partner&utm_campaign=siphano",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "skyyart",
     "type": "Server Invite",
     "description": "Invite to Skyart",
     "redirect": "https://discord.gg/skyyart?utm_source=twitter&utm_medium=partnerships&utm_campaign=skyyart",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "teamchaos",
     "type": "Server Invite",
     "description": "Invite to TeamChaos",
     "redirect": "https://discord.gg/teamchaos?utm_source=twitter&utm_medium=partnerships&utm_campaign=chaos",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "molt",
     "type": "Server Invite",
     "description": "Invite to The Nyte Family",
     "redirect": "https://discord.gg/nyte?utm_source=youtube&utm_campaign=molt",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "thnxcya",
     "type": "Server Invite",
     "description": "Invite to ThnxCya's Subscriber Server",
     "redirect": "https://discord.gg/thnxcya?utm_source=twitter&utm_medium=partnerships&utm_campaign=thnxcya",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "BioShock",
     "type": "Store",
     "description": "[Removed] BioShock",
     "redirect": "https://discordapp.com/store?utm_source=twitter&utm_medium=social&utm_campaign=2019-02_2k-games&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "atsundowntw",
@@ -1070,7 +1074,7 @@
     "type": "Store",
     "description": "AT SUNDOWN (nonaffiliate and affiliate)",
     "redirect": "https://discordapp.com/store/skus/487031053454802946/at-sundown-tm?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "badnorthyt",
@@ -1085,7 +1089,7 @@
     "type": "Store",
     "description": "Bad North (affiliate links and non-affiliate at top)",
     "redirect": "https://discordapp.com/store/skus/488422292137836574/bad-north?utm_source=youtube&utm_medium=social&utm_campaign=2018-11_bad-north&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "koth",
@@ -1103,7 +1107,7 @@
     "type": "Store",
     "description": "King of the Hat (lots are affiliate links, one at top is closest to non-affiliate)",
     "redirect": "https://discordapp.com/store/skus/486981988109254667/king-of-the-hat",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "lastyeartw",
@@ -1118,14 +1122,14 @@
     "type": "Store",
     "description": "Last Year: The Nightmare (affiliate links)",
     "redirect": "https://discordapp.com/store/skus/489576163438624769/last-year-the-nightmare?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_last-year-launch&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "discord",
     "type": "Store",
     "description": "Link to buy Nitro (affiliate link)",
     "redirect": "https://discordapp.com/store?utm_source=Facebook&utm_medium=NITRO%20promotion&utm_campaign=darkness429",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "oj-minionmasters",
@@ -1136,322 +1140,315 @@
     "type": "Store",
     "description": "Minion Masters (affiliate links)",
     "redirect": "http://bit.ly/2NKDzf2?utm_source=youtube&utm_medium=store%20promotion&utm_campaign=ojminionmasters",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "parkasaurustw",
     "type": "Store",
     "description": "Parkasaurus",
     "redirect": "https://discordapp.com/store/skus/508008071411400724/parkasaurus?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "magikarpusedfly-rr",
     "type": "Store",
     "description": "Realm Royale (magikarpusedfly affiliate link)",
     "redirect": "https://discordapp.com/store/skus/518088627234930688/realm-royale?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-01_nitro-realm-royale&utm_content=--t%3App--pp%3Amagikarpusedfly",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "nzxtpc",
     "type": "Website",
     "description": "[INVALID] Link to the terms for the NZXT Giveaway for Snowsgiving 19",
     "redirect": "https://discordapp.com/terms/nzxt-snowsgiving-2019",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "cohhcarnage",
     "type": "Website",
     "description": "Discord's Main Page (cohhcarnage partnered link)",
     "redirect": "https://discordapp.com/?utm_source=twitch&utm_medium=partnerships&utm_campaign=cohhcarnage",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "androidboogie",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/how-discord-renders-rich-messages-on-the-android-app-67b0e5d56fbe",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "apps",
     "type": "Website",
     "description": "Download Discord on your mobile devices",
     "redirect": "https://discordapp.com/api/download/mobile",
-    "usefulness": null
+    "usefulness": 4
   },
   {
     "link": "ar12",
     "type": "Server Invite",
     "description": null,
     "redirect": "https://discord.gg/AR12?utm_source=twitter&utm_medium=partnerships&utm_campaign=AR12",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "bitethis",
     "type": "Server Invite",
     "description": null,
     "redirect": "https://discordapp.com/invite/bitethis?utm_source=twitter&utm_medium=social&utm_campaign=2019-08_bite-this&utm_content=--t%3Aev",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "blogcrawl",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/498549800237662212/crawl?utm_source=medium&utm_medium=blog&utm_campaign=2018-10_crawl&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "bugreport",
     "type": "Form",
     "description": null,
     "redirect": "https://support.discord.com/hc/requests/new?ticket_form_id=360006586013",
-    "usefulness": null
+    "usefulness": 3
   },
   {
     "link": "buildyourkingdom",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/empowering-developers-with-community-and-commerce-68d9c0712662",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "childsplaydiscordhype",
     "type": "External Website",
     "description": null,
     "redirect": "https://tiltify.com/@discordapp/discord-hypesquad-childs-play-fundraiser",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "crazysam-rt",
     "type": "Server Invite",
     "description": null,
     "redirect": "https://discord.gg/crazysam?utm_source=twitter&utm_medium=affiliate&utm_campaign=2020-01_growth-japan&utm_content=--t%3App--pp%3Acrazysam",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "crosscodetw",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/498690780836134912/crosscode?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "darksiderstw",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/471358881348452352/darksiders-iii?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
-    "usefulness": null
-  },
-  {
-    "link": "devnewsletter",
-    "type": "Website",
-    "description": "[Invalid - 404] Sign up for the Developer's Newsletter",
-    "redirect": "https://discordapp.com/dev-newsletter",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "discordswim4",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/11-20-18-discord-nitro-gets-five-adult-swim-games-b242736eccf0",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "docs",
     "type": "Website",
     "description": "Discord's Developer Documentation",
     "redirect": "https://discordapp.com/developers/docs/intro",
-    "usefulness": 4
+    "usefulness": 3
   },
   {
     "link": "donate",
     "type": "External Website",
     "description": null,
     "redirect": "https://tiltify.com/@discordapp/snowsgiving-2019-fundraiser",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "doom49yt-h&gwwii",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/550277544025522176/heroes-generals-wwii?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-05_nitro-heroes-generals-wwii&utm_content=--t%3App--pp%3Adoom49",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "dreamcommunity",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/how-we-used-discord-to-build-a-dream-community-for-our-game-descenders-ce31635a6e7f",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "eaislive",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/discord-early-access-games-are-now-live-d43ef70fd7e2",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "fourvalues",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/the-four-values-of-working-at-discord-90d5b5102cbc",
-    "usefulness": null
+    "usefulness": 4
   },
   {
     "link": "frostfangs-paladins",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/528145079819436043/paladins?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-07_nitro-paladins&utm_content=--t%3App--pp%3Afrostfangs",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "frostpunk",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/471501184939851806/frostpunk",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "goldglove-zombsroyale.io",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/519338998791929866/zombsroyale-io?utm_source=twitch&utm_medium=affiliate&utm_campaign=2019-02_nitro-zombsroyale&utm_content=--t%3App--pp%3Agoldglove",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "hackweekwinners",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/discord-community-hack-week-category-winners-bd0364360f92",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "imageproxy",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "keyboardnav",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discord.com/how-discord-implemented-app-wide-keyboard-navigation-abf073fd71de",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "killerqueenb",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/492373500997402624/killer-queen-black?utm_source=twitter&utm_medium=social&utm_campaign=2019-02_killer-queen&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "login",
     "type": "Website",
     "description": "Discord Login page",
     "redirect": "https://discordapp.com/login",
-    "usefulness": null
+    "usefulness": 4
   },
   {
     "link": "makepeoplehappy",
     "type": "Website",
     "description": "[Expired Job Listing] Apply to work at Discord",
     "redirect": "https://discordapp.com/jobs/4002320002",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "merch",
     "type": "External Website",
     "description": "Discord's Merch Store",
     "redirect": "https://merch.discordapp.com/",
-    "usefulness": null
+    "usefulness": 3
   },
   {
     "link": "mermaid",
     "type": "Server Invite",
     "description": null,
     "redirect": "https://discord.gg/mermaid?utm_source=twitter&utm_medium=partnerships&utm_campaign=lenaaxios",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "mmsnow18",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/minion-masters-snowsgiving-tournament-rules-and-prizing-1549fb640ac4",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "mod-channel-ss",
     "type": "External Website",
     "description": "A screenshot of the moderator channel toggle in the server settings",
     "redirect": "https://media.discordapp.net/attachments/674362533712363520/676929399345643520/unknown.png",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "nauticalparty",
     "type": "External Website",
     "description": "Discord Vlog - Discord Nautical Party",
     "redirect": "https://youtu.be/fs6j5ReMsNI",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "netneutrality",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/why-discord-supports-net-neutrality-8f5e2b8b88f5",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "niscordditro",
     "type": "Website",
     "description": "Get Discord Nitro",
     "redirect": "https://discordapp.com/nitro?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_nitro-gifting&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 4
   },
   {
     "link": "nitrochanges",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/whats-coming-for-nitro-a732ddc4b5b1",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "overlaybb",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://medium.com/@discordnelly/discord-overlay-text-chat-performance-boost-and-notifications-3d29cace1d87",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "overlayredesign",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/redesigning-the-discord-overlay-cc31c6042d6d",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "police2tw",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/474762950108905472/this-is-the-police-2?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "reactwoooo",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "riotarmyos",
     "type": "External Website",
     "description": "First bitly, then redirect to Steam Store - Omensight: Definitive Edition",
     "redirect": "http://bit.ly/2uxQH0g?utm_source=youtube&utm_campaign=riotarmy",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "sinnertw",
@@ -1463,181 +1460,181 @@
     "type": "Store",
     "description": "Game Sinner",
     "redirect": "https://discordapp.com/store/skus/489184797936058380/sinner-sacrifice-for-redemption?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "slashcommands",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discord.com/slash-commands-are-here-8db0a385d9e6",
-    "usefulness": null
+    "usefulness": 4
   },
   {
     "link": "sp4zie-warframe",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/494959992483348480/warframe?utm_source=twitch&utm_medium=affiliate&utm_campaign=2019-03_nitro-warframe&utm_content=--t%3App--pp%3Asp4zie",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "starwarshq-darkforces",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-05_nitro-lucasarts-darkforces&utm_content=--t%3App--pp%3Astarwarshq",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "starwarshq-jediknight",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-05_nitro-lucasarts-jediknight&utm_content=--t%3App--pp%3Astarwarshq",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "starwarshq-kotor",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store?utm_source=youtube&utm_medium=affiliate&utm_campaign=2019-05_nitro-lucasarts-kotor&utm_content=--t%3App--pp%3Astarwarshq",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "stop",
     "type": "External Website",
     "description": null,
     "redirect": "https://tiltify.com/@discordapp/discord-stack-up",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "subnauticatw",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/489926636943441932/subnautica?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "systemtw",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/471028545271889920/system-shock-enhanced-edition?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "templates",
     "type": "Article",
     "description": null,
     "redirect": "https://support.discordapp.com/hc/articles/360041033511",
-    "usefulness": null
+    "usefulness": 4
   },
   {
     "link": "tosoct18",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discordapp.com/terms-of-service-feedback-and-changes-c58a530c7693",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "vdaysale",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/?utm_source=twitter&utm_medium=social&utm_campaign=2019-02_vday-sale&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "visagetw",
     "type": "Store",
     "description": null,
     "redirect": "https://discordapp.com/store/skus/508057374875975682/visage?utm_source=twitter&utm_medium=social&utm_campaign=2018-12_snowsgiving&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "viva_h-rt",
     "type": "Server Invite",
     "description": null,
     "redirect": "https://discord.gg/vivaaaaaaaaaa?utm_source=twitter&utm_medium=affiliate&utm_campaign=2020-02_growth-japan&utm_content=--t%3App--pp%3Aviva_h",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "website",
     "type": "Website",
     "description": "Discord's website",
     "redirect": "https://discordapp.com/?utm_source=twitter&utm_medium=social&utm_campaign=2019-06_discord-twitter&utm_content=--t%3Acm",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "xboxnitro2020",
     "type": "Article",
     "description": "Get 3 months of Xbox Game Pass for PC with Discord Nitro",
     "redirect": "https://support.discord.com/hc/articles/360035344491",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "unsupportedbugs",
     "type": "Article",
     "description": "Unsupported Bug Reports",
     "redirect": "https://support.discord.com/hc/articles/1500005933882",
-    "usefulness": 2
+    "usefulness": 3
   },
   {
     "link": "exam",
     "type": "External Website",
     "description": null,
     "redirect": "https://survey.alchemer.com/s3/6323420/Discord-Moderator-Academy-Exam",
-    "usefulness": null
+    "usefulness": 3
   },
   {
     "link": "ournewlook",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discord.com/fc99ee0a77c0",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "google",
     "type": "External Website",
     "description": "Redirects to Yahoo Search",
     "redirect": "https://yahoo.com",
-    "usefulness": 7
+    "usefulness": 4
   },
   {
     "link": "modbadge",
     "type": "Blogpost",
     "description": "Announcing our Latest Profile Badge: the Certified Discord Moderator - Details about the process",
     "redirect": "https://blog.discord.com/announcing-our-latest-profile-badge-the-certified-discord-moderator-908182193af8",
-    "usefulness": null
+    "usefulness": 2
   },
   {
     "link": "studenthubs",
     "type": "Blogpost",
     "description": "Discover Your Next Favorite Campus Club in Student Hubs",
     "redirect": "https://blog.discord.com/discover-your-next-favorite-campus-club-in-student-hubs-3b5d1c65800f",
-    "usefulness": null
+    "usefulness": 4
   },
   {
     "link": "youtube-premium",
     "type": "Blogpost",
-    "description": null,
+    "description": "[Time-limited] Get YouTube Premium with Nitro",
     "redirect": "https://blog.discord.com/nitro-users-now-get-an-enhanced-video-experience-with-three-months-of-youtube-premium-9d86db0a4a7c",
-    "usefulness": null
+    "usefulness": 2
   },
   {
     "link": "youtube-premium-faq",
     "type": "Article",
-    "description": null,
+    "description": "[Time-limited] Get YouTube Premium with Nitro",
     "redirect": "https://support.discord.com/hc/en-us/articles/4405795261335",
-    "usefulness": null
+    "usefulness": 3
   },
   {
     "link": "pride2021",
     "type": "Blogpost",
     "description": null,
     "redirect": "https://blog.discord.com/celebrating-pride-month-with-glsen-a2e7695fb1d6",
-    "usefulness": null
+    "usefulness": 5
   },
   {
     "link": "help",
     "type": "Website",
-    "description": null,
+    "description": "The Discord Help Center",
     "redirect": "https://support.discord.com/hc/en-us",
-    "usefulness": null
+    "usefulness": 1
   }
 ]
