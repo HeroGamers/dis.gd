@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$schema": "http://json-schema.org/draft/2020-12/schema#",
   "$id": "https://raw.githubusercontent.com/HeroGamers/dis.gd/json-validation/shortlink.schema.json",
   "title": "Shortlink",
   "description": "A dis.gd shortlink",
