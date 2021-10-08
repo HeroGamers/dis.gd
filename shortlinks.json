@@ -1589,21 +1589,21 @@
     "usefulness": 1
   },
   {
-    "link": "dragndropFAQ",
+    "link": "dragndropfaq",
     "type": "Article",
     "description": "Accessible Drag and Drop FAQ",
     "redirect": "https://support.discord.com/hc/en-us/articles/4408877527703?utm_source=social-media&utm_medium=social&utm_campaign=2021-09_dragndropFAQ&utm_content=--t%3Acm",
     "usefulness": 4
   },
   {
-    "link": "ttssliderFAQ",
+    "link": "ttssliderfaq",
     "type": "Article",
     "description": "The Accessibility Settings Tab",
     "redirect": "https://support.discord.com/hc/en-us/articles/1500010454681#h_01FF8RQ8EHR2T5PPCF9MZY1E1Y?utm_source=social-media&utm_medium=social&utm_campaign=2021-09_ttssliderFAQ&utm_content=--t%3Acm",
     "usefulness": 4
   },
   {
-    "link": "customroleiconsFAQ",
+    "link": "customroleiconsfaq",
     "type": "Article",
     "description": "Custom Role Icons FAQ",
     "redirect": "https://support.discord.com/hc/articles/4409571023639?utm_source=social-media&utm_medium=social&utm_campaign=2021-09_roleiconsFAQ&utm_content=--t%3Acm",
