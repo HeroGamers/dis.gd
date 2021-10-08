@@ -1608,5 +1608,19 @@
     "description": "Custom Role Icons FAQ",
     "redirect": "https://support.discord.com/hc/articles/4409571023639?utm_source=social-media&utm_medium=social&utm_campaign=2021-09_roleiconsFAQ&utm_content=--t%3Acm",
     "usefulness": 3
+  },
+  {
+    "link": "transparency20",
+    "type": "Blogpost",
+    "description": "Transparency report January-June 2020",
+    "redirect": "https://blog.discord.com/discord-transparency-report-jan-june-2020-2ef4a3ee346d",
+    "usefulness": 5
+  },
+  {
+    "link": "transparencyh12021",
+    "type": "Blogpost",
+    "description": "Transparency report January-June 2021",
+    "redirect": "https://discord.com/blog/discord-transparency-report-h1-2021",
+    "usefulness": 5
   }
 ]
