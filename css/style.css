@@ -42,3 +42,8 @@ footer.bg-dark {
 .shortLinkRedirect {
     overflow-wrap: anywhere;
 }
+
+/* Bootstrap table overflow fix on pagechange */
+.bootstrap-table .fixed-table-container .fixed-table-body {
+	overflow-y: hidden;
+}
